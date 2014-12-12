@@ -1,0 +1,22 @@
+[
+	{
+		"Id" : "Smartphones & Tablets",
+		"Name" : "Smartphones & Tablets"
+	},
+	{
+		"Id" : "TV/Video/HiFi",
+		"Name" : "TV/Video/HiFi"
+	},
+	{
+		"Id" : "Computer systems",
+		"Name" : "Computer systems"
+	},
+	{
+		"Id" : "Computer components",
+		"Name" : "Computer components"
+	},
+	{
+		"Id" : "Software",
+		"Name" : "Software"
+	}
+]

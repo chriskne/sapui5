@@ -1,0 +1,37 @@
+[
+	{
+		"Id" : "Accessories",
+		"Name" : "Accessories",
+		"MainCategoryId" : "Smartphones & Tablets"
+	},
+	{
+		"Id" : "Beamers",
+		"Name" : "Beamers",
+		"MainCategoryId" : "TV/Video/HiFi"
+	},
+	{
+		"Id" : "Camcorders",
+		"Name" : "Camcorders",
+		"MainCategoryId" : "TV/Video/HiFi"
+	},
+	{
+		"Id" : "Computer system accessories",
+		"Name" : "Computer system accessories",
+		"MainCategoryId" : "Computer systems"
+	},
+	{
+		"Id" : "Flat screens",
+		"Name" : "Flat screens",
+		"MainCategoryId" : "Computer components"
+	},
+	{
+		"Id" : "Software",
+		"Name" : "Software",
+		"MainCategoryId" : "Software"
+	},
+	{
+		"Id" : "Notebooks",
+		"Name" : "Notebooks",
+		"MainCategoryId" : "Computer components"
+	}
+]

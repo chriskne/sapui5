@@ -1,0 +1,44 @@
+{
+  "welcomeFile": "index.html",
+  "routes": [
+    {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "RefAppsBackend",
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "Backend OData services"
+    },
+    {
+      "path": "/SAP/PUBLIC/BC/NWDEMO_MODEL",
+      "target": {
+        "type": "destination",
+        "name": "RefAppsBackend",
+        "entryPath": "/SAP/PUBLIC/BC/NWDEMO_MODEL",
+        "preferLocal": true
+      },
+      "description": "EPM mime picture service"
+    },
+    {
+      "path": "/resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/resources",
+        "preferLocal": true
+      },
+      "description": "SAPUI5 dist layer resources"
+    },
+    {
+      "path": "/test-resources",
+      "target": {
+        "type": "service",
+        "name": "sapui5",
+        "entryPath": "/test-resources",
+        "preferLocal": true
+      },
+      "description": "SAPUI5 Dist layer test resources"
+    }
+  ]
+}

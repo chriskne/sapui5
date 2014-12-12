@@ -1,0 +1,18 @@
+[
+	{
+		"Id" : "0100000000",
+		"Name" : "SAP",
+		"FormattedAddress" : "69190, Walldorf, Dietmar-Hopp-Allee 16, Germany",
+		"WebAddress" : "http://www.sap.com",
+		"Email" : "do.not.reply@sap.com",
+		"Phone" : "0622734567"
+	},
+	{
+		"Id" : "0100000001",
+		"Name" : "Becker Berlin",
+		"FormattedAddress" : "13467, Berlin, Calvinstraße 36, Germany",	
+		"WebAddress" : "http://www.beckerberlin.de",
+		"Email" : "dagmar.schulze@beckerberlin.de",
+		"Phone" : "3088530"
+	}
+]

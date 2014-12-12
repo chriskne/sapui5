@@ -1,0 +1,327 @@
+[
+  {
+    "ProductId": "HT-1000",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1000",
+    "Rating": 2,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1000",
+    "Rating": 3,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-1000",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1000",
+    "Rating": 5,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1001",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1001",
+    "Rating": 2,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1001",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1001",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1001",
+    "Rating": 5,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2001",
+    "Rating": 5,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2001",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2001",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2001",
+    "Rating": 2,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-2001",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2000",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-2000",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2000",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2000",
+    "Rating": 2,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-2000",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-9995",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9995",
+    "Rating": 4,
+    "RatingCount": 3
+  },
+  {
+    "ProductId": "HT-9995",
+    "Rating": 3,
+    "RatingCount": 4
+  },
+  {
+    "ProductId": "HT-9995",
+    "Rating": 2,
+    "RatingCount": 4
+  },
+  {
+    "ProductId": "HT-9995",
+    "Rating": 1,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9991",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9991",
+    "Rating": 4,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9991",
+    "Rating": 3,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-9991",
+    "Rating": 2,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-9991",
+    "Rating": 1,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-9994",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9994",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-9994",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-9994",
+    "Rating": 2,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-9994",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2026",
+    "Rating": 5,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2026",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2026",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-2026",
+    "Rating": 2,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-2026",
+    "Rating": 1,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1114",
+    "Rating": 5,
+    "RatingCount": 3
+  },
+  {
+    "ProductId": "HT-1114",
+    "Rating": 4,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1114",
+    "Rating": 3,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1114",
+    "Rating": 2,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1114",
+    "Rating": 1,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "AD-1000",
+    "Rating": 5,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "AD-1000",
+    "Rating": 4,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "AD-1000",
+    "Rating": 3,
+    "RatingCount": 3
+  },
+  {
+    "ProductId": "AD-1000",
+    "Rating": 2,
+    "RatingCount": 3
+  },
+  {
+    "ProductId": "AD-1000",
+    "Rating": 1,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-1111",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1111",
+    "Rating": 4,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1111",
+    "Rating": 3,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-1111",
+    "Rating": 2,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-1111",
+    "Rating": 1,
+    "RatingCount": 2
+  },
+  {
+    "ProductId": "HT-1036",
+    "Rating": 5,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1036",
+    "Rating": 4,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1036",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1036",
+    "Rating": 2,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1036",
+    "Rating": 1,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1037",
+    "Rating": 5,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1037",
+    "Rating": 4,
+    "RatingCount": 1
+  },
+  {
+    "ProductId": "HT-1037",
+    "Rating": 3,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1037",
+    "Rating": 2,
+    "RatingCount": 0
+  },
+  {
+    "ProductId": "HT-1037",
+    "Rating": 1,
+    "RatingCount": 0
+  }
+]

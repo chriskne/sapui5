@@ -1,0 +1,20 @@
+[
+	{
+		"Id" : "12345",
+		"ProductId" : "HT-1000",
+		"ShoppingCartId" : "-1",
+		"Quantity" : "5",
+		"Unit" : "EA",
+		"SubTotal" : "4780.00",
+		"CurrencyCode" : "EUR"
+	},
+	{
+		"Id" : "12346",
+		"ProductId" : "HT-1001",
+		"ShoppingCartId" : "-1",
+		"Quantity" : "1",
+		"Unit" : "EA",
+		"SubTotal" : "1249.00",
+		"CurrencyCode" : "EUR"
+	}
+]
